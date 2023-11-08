@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Lift_Management_System_Solution",
-    "\\Lift_Management_System_Solution\\Lift_Management_System",
-    "\\Lift_Management_System_Solution\\Lift_Management_System\\Views"
+    "\\Lift_Management_System_Solution\\Lift_Management_System"
   ],
-  "SelectedNode": "\\Lift_Management_System_Solution\\Lift_Management_System\\Views\\LiftFloors.cs",
+  "SelectedNode": "\\Lift_Management_System_Solution\\Lift_Management_System\\LiftSystemApp.sln",
   "PreviewInSolutionExplorer": false
 }
